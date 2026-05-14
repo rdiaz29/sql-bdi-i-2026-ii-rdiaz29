@@ -1,5 +1,4 @@
-INSERT INTO university.buildings (name) VALUES
-('Bloque Gramalote'),
+INSERT INTO university.buildings (name) VALUES('Bloque Gramalote'),
 ('Bloque Nuevo'),
 ('Bloque Toledo'),
 ('Bloque Zulia '),

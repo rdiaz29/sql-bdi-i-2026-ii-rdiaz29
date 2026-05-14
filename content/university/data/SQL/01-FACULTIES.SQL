@@ -1,5 +1,4 @@
-INSERT INTO university.faculties (name) VALUES
-('Facultad de Artes y Humanidades'),
+INSERT INTO university.faculties (name) VALUES('Facultad de Artes y Humanidades'),
 ('Facultad de Ciencias Agrarias'),
 ('Facultad de Ciencias Básicas'),
 ('Facultad de Ciencias Económicas y Empresariales'),

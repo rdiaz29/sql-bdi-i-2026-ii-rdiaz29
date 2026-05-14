@@ -1,3 +1,4 @@
+SET client_encoding = 'UTF8';
 INSERT INTO university.users (first_name,last_name,email,role_id) VALUES
 ('Carlos','Mendoza','carlos.mendoza@universidad.edu',1),
 ('Valentina','Ríos','valentina.rios@universidad.edu',1),
